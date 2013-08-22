@@ -1,0 +1,6 @@
+XUPTIME 1.1 for OS/2 is an uptime meter
+that displays the time that has passed
+since the last reboot of the machine.
+Unlike other tools, it is able to handle
+uptimes greater than 50 days.  Written by
+Tobias Ernst (tobi@bland.fido.de)
